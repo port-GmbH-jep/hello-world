@@ -5,4 +5,8 @@ Getting Started with Git
 Bibbedibabbedibuhh
 
 time for change
+<<<<<<< HEAD
 # adding some new stuff from git bash Even more infos
+=======
+# should just seen in second branch
+>>>>>>> readme-edits
